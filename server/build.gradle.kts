@@ -36,6 +36,8 @@ dependencies {
 
     // Utils
     implementation(libs.bcrypt)
+
+    // TODO: Update lib
     implementation(libs.logback)
 
     // DB
